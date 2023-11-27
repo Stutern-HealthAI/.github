@@ -26,7 +26,7 @@ Limitation Awareness: Increase user awareness regarding the limitations of AI-ge
 
 * Save and Share Functionality: Users can save their conversation history for personal records or share it with healthcare professionals, facilitating more informed in-person consultations.
 
-
+# Useful Resources 
 ### PROTOTYPES
 https://www.figma.com/file/qPgYdDgCZ1vslqGorHdJKd/Stutern-Health-AI?type=design&node-id=0%3A1&mode=design&t=CMpgVefsccRjN5cn-1 
 

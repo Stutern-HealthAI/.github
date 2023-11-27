@@ -30,6 +30,9 @@ Limitation Awareness: Increase user awareness regarding the limitations of AI-ge
 ### PROTOTYPES
 https://www.figma.com/file/qPgYdDgCZ1vslqGorHdJKd/Stutern-Health-AI?type=design&node-id=0%3A1&mode=design&t=CMpgVefsccRjN5cn-1 
 
+### DEMO LINK
+https://www.canva.com/design/DAF1KxNYGPg/qEjG34WTLmQvelmLC0xqmg/view?utm_content=DAF1KxNYGPg&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
+
 ### DEPLOYED LINK
 https://health-ai-alpha.vercel.app/  
 
